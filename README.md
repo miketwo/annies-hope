@@ -1,3 +1,22 @@
+# Annie's Hope Forms as React App
+
+Following this guide: https://medium.com/@abventures/how-to-build-a-react-website-in-aws-within-15-minutes-9e9c37f85aeb
+Also this guide: https://blog.prototypr.io/seven-best-ux-practices-for-designing-long-online-forms-6a670e488bad
+
+
+Hosted on S3.
+Probably will use Cognito for user ID.
+Probably will use hosted document storage for forms?
+- other options are connecting to Salesforce directly or creating/emailing a pdf.
+
+
+
+Trying to REACTify the forms here: http://annieshope.org/programs/#familysupportgroups
+
+
+
+# Create React App
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
